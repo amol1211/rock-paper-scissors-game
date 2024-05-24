@@ -2,8 +2,9 @@
 
 Welcome to the **Rock-Paper-Scissors** game! 🎉 This is a simple implementation of the classic game using HTML, CSS, and JavaScript.
 
-![Screenshot of the Rock-Paper-Scissors game](rps-game.png)
-[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://rock-paper-scissors-game-neho.onrender.com/)
+## ![Screenshot of the Rock-Paper-Scissors game](rps-game1.png)
+
+## [![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://rock-paper-scissors-game-neho.onrender.com/)
 
 ## 📜 How to Play
 
@@ -27,10 +28,6 @@ Welcome to the **Rock-Paper-Scissors** game! 🎉 This is a simple implementatio
 - 🎨 CSS3
 - ⚙️ JavaScript
 
-## 🚀 Getting Started
-
-To get a local copy up and running, follow these simple steps:
-
-### Prerequisites
+## 🚀 To play a game
 
 You need a web browser to run the game. 🌍
