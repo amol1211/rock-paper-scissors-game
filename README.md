@@ -2,6 +2,9 @@
 
 Welcome to the **Rock-Paper-Scissors** game! 🎉 This is a simple implementation of the classic game using HTML, CSS, and JavaScript.
 
+![Screenshot of the Rock-Paper-Scissors game](rps-game.png)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://rock-paper-scissors-game-neho.onrender.com/)
+
 ## 📜 How to Play
 
 1. Select one of the three options: Rock ✊, Paper ✋, or Scissors ✌️.
